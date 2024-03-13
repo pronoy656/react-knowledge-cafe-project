@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/thD9mpr/flat_lay_workstation_with_copy_space_laptop.jpg",
+      "title": "Lorem Ipsum Dolor Sit Amet",
+      "author_img": "John Doe",
+      "author_image": "https://i.ibb.co/zfqj2Jv/dreaming_woman_with_book.jpg",
+      "posted_date": "2024_03_12",
+      "reading_time": 10,
+      "hashtags": ["#Lorem", "#Ipsum", "#Dolor"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/9bGkkT0/wireless_keyboard_cup_coffee_table.jpg",
+      "title": "Consectetur Adipiscing Elit",
+      "author_img": "Jane Smith",
+      "author_image": "https://i.ibb.co/8zHDgJ1/front_view_young_beautiful_lady_white_t_shirt_black_jeans_coat_holding_green_book_white.jpg",
+      "posted_date": "2024_03_11",
+      "reading_time": 8,
+      "hashtags": ["#Consectetur", "#Adipiscing", "#Elit"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/bgTynG0/8427809.jpg",
+      "title": "Sed Do Eiusmod Tempor Incididunt",
+      "author_img": "Alice Johnson",
+      "author_image": "https://i.ibb.co/vHnCvSP/girl_sitting_table_writing.jpg",
+      "posted_date": "2024_03_10",
+      "reading_time": 15,
+      "hashtags": ["#Sed", "#Do", "#Eiusmod"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/W3DT9gk/3946994.jpg",
+      "title": "Ut Labore Et Dolore Magna",
+      "author_img": "Bob Williams",
+      "author_image": "https://i.ibb.co/zP8s7vt/thoughtful_creative_male_journalist_writer_biting_pencil_holding_notebook_writing_schedule_look_thin.jpg",
+      "posted_date": "2024_03_09",
+      "reading_time": 12,
+      "hashtags": ["#Ut", "#Labore", "#Dolore"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/kBv3sjj/2337097.jpg",
+      "title": "Aliqua Ut Enim Ad Minim Veniam",
+      "author_img": "Emily Brown",
+      "author_image": "https://i.ibb.co/dcgGSxL/close_up_portrait_young_readhed_smiling_student_studying_home_looking_aside.jpg",
+      "posted_date": "2024_03_08",
+      "reading_time": 20,
+      "hashtags": ["#Aliqua", "#Ut", "#Enim"]
+    }
+  ]
+  
